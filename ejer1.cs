@@ -131,7 +131,7 @@ de tipo string, entonces st.Length devuelve la cantidad de caracteres del string
    }
 */
 /*EJERCICIO 7: Qué hace la instrucción Console.WriteLine("100".Length); ? 
-Te da una longitud de 3.
+Te da que la longitud es de 3.
 */
 /* EJERCICIO 8: Sea st una variable de tipo string correctamente declarada. ¿Es válida la siguiente instrucción:
 string st;
