@@ -1,0 +1,15 @@
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\clase_2\obj\Debug\net7.0\clase_2.csproj.AssemblyReference.cache
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\clase_2\obj\Debug\net7.0\clase_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\clase_2\obj\Debug\net7.0\clase_2.AssemblyInfoInputs.cache
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\clase_2\obj\Debug\net7.0\clase_2.AssemblyInfo.cs
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\clase_2\obj\Debug\net7.0\clase_2.csproj.CoreCompileInputs.cache
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\clase_2\bin\Debug\net7.0\clase_2.exe
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\clase_2\bin\Debug\net7.0\clase_2.deps.json
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\clase_2\bin\Debug\net7.0\clase_2.runtimeconfig.json
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\clase_2\bin\Debug\net7.0\clase_2.dll
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\clase_2\bin\Debug\net7.0\clase_2.pdb
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\clase_2\obj\Debug\net7.0\clase_2.dll
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\clase_2\obj\Debug\net7.0\refint\clase_2.dll
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\clase_2\obj\Debug\net7.0\clase_2.pdb
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\clase_2\obj\Debug\net7.0\clase_2.genruntimeconfig.cache
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\clase_2\obj\Debug\net7.0\ref\clase_2.dll
