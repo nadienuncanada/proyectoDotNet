@@ -1,4 +1,4 @@
-//ejer1 
+﻿//ejer1 
 /*{
       DateTime dat = DateTime.Now;
       Console.WriteLine("The time: {0:d} at {0:t}", dat);
@@ -324,5 +324,5 @@ Console.WriteLine("cero");
 
 }
 Console.WriteLine(i);
-EL --i y el i-- funcionan de diferente manera, uno antes de que entre al if y otro despues(NO ENTIENDO MUY BIEN PORQUE).
+EL --i y el i-- funcionan de diferente manera, uno antes de que entre al if y otro despues.
 */
