@@ -289,3 +289,57 @@ int FacR(int n){
 }
 int FacR(int n)=> n<=1? 1:FacR(n-1)*n;
 */
+/* EJERCICIO 17:
+ Ídem. al ejercicio 16.a) y 16.b) pero devolviendo el resultado en un parámetro de salida
+void Fac(int n, out int f)
+
+
+  int f;
+void Fac(int n,out int f){
+  int m=1;
+  for(int i=1;i<=n;i++){
+    m*=i;
+  }
+  f=m;
+}
+Fac(int.Parse((args[0])),out f);
+Console.WriteLine(f);
+
+int f;
+void Fac(int n,out int f){
+  if(n<=1)
+  f=1;
+ else
+   Fac(n-1*n,out f);
+}
+Fac(int.Parse((args[0])),out f);
+Console.WriteLine(f);
+*/
+/* EJERCICIO 18:
+ Codificar el método Swap que recibe 2 parámetros enteros e intercambia sus valores. El cambio
+debe apreciarse en el método invocador.
+
+ void Swap(ref int a,ref int b){
+  int c=a;
+  a=b;
+  b=c;
+ }
+ int a=5;
+ int b=10;
+ Swap(ref a,ref b);
+ Console.WriteLine(a+" " +b);
+ */
+ /* EJERCICIO 19:
+ Codificar el método Imprimir para que el siguiente código produzca la salida por consola que
+se observa. Considerar que el usuario del método Imprimir podría querer más adelante
+imprimir otros datos, posiblemente de otros tipos pasando una cantidad distinta de parámetros
+cada vez que invoque el metodo
+
+ 
+ void Imprimir(params object []list){
+  for (int i=0;i<list.Length;i++){
+    Console.Write(list[i]+ " ");
+  }
+ }
+ Imprimir(1,2,3,4,"hola",5);
+*/
