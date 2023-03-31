@@ -10,8 +10,11 @@ class Persona{
     this.DNI=dni;
   }
 
-public void Imprimir(int pos){
- Console.WriteLine("{0}) {1,-8} {2,5} {3,10}", pos, this.Nombre, this.Edad, this.DNI);
-}
-
+  public void Imprimir(int pos){
+    Console.WriteLine("{0}) {1,-8} {2,5} {3,10}", pos, this.Nombre, this.Edad, this.DNI);
+  }
+  public bool EsMayorQue(Persona p)=>
+    (this.Edad>p.Edad);
+       
+  
 }
