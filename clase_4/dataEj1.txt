@@ -1,0 +1,4 @@
+pepito,60,888
+gilgero,10,999
+rarez,12,1212
+pedro,12,1245

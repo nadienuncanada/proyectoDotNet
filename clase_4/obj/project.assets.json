@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\meloi\\.nuget\\packages\\": {}
+    "C:\\Users\\ignac\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\meloi\\OneDrive\\Documentos\\.NET\\proyectoDotNet\\clase_4\\clase_4.csproj",
+      "projectUniqueName": "C:\\Users\\ignac\\OneDrive\\Documentos\\VSCode\\proyectoDotnet\\proyectoDotNet\\clase_4\\clase_4.csproj",
       "projectName": "clase_4",
-      "projectPath": "C:\\Users\\meloi\\OneDrive\\Documentos\\.NET\\proyectoDotNet\\clase_4\\clase_4.csproj",
-      "packagesPath": "C:\\Users\\meloi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\meloi\\OneDrive\\Documentos\\.NET\\proyectoDotNet\\clase_4\\obj\\",
+      "projectPath": "C:\\Users\\ignac\\OneDrive\\Documentos\\VSCode\\proyectoDotnet\\proyectoDotNet\\clase_4\\clase_4.csproj",
+      "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ignac\\OneDrive\\Documentos\\VSCode\\proyectoDotnet\\proyectoDotNet\\clase_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\meloi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
