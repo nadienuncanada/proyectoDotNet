@@ -109,4 +109,101 @@ Desarrollar los métodos:
 4. GetCantNodos(): devuelve la cantidad de nodos que posee el árbol.
 5. GetValorMáximo(): devuelve el valor máximo que contiene el árbol.
 6. GetValorMínimo(): devuelve el valor mínimo que contiene el árbol.
+
+Nodo n= new Nodo(7);
+n.Insertar(8);
+n.Insertar(10);
+n.Insertar(3);
+n.Insertar(1);
+n.Insertar(5);
+n.Insertar(14);
+foreach (int i in n.GetInOrder())
+{
+Console.Write(i + " ");
+}
+Console.WriteLine();
+Console.WriteLine(n.GetAltura());
+Console.WriteLine(n.GetCantNodos());
+Console.WriteLine(n.GetValorMaximo());
+Console.WriteLine(n.GetValorMinimo());
+*/
+/*  EJERCICIO 8: 
+ Implementar la clase Matriz que se utilizará para trabajar con matrices matemáticas. Implementar los dos
+constructores y todos los métodos que se detallan a continuación:
+public Matriz(int filas, int columnas)
+public Matriz(double[,] matriz)
+public void SetElemento(int fila, int columna, double elemento)
+public double GetElemento(int fila, int columna)
+public void imprimir()
+public void imprimir(string formatString)
+public double[] GetFila(int fila)
+public double[] GetColumna(int columna)
+public double[] GetDiagonalPrincipal()
+public double[] GetDiagonalSecundaria()
+public double[][] getArregloDeArreglo()
+public void sumarle(Matriz m)
+public void restarle(Matriz m)
+public void multiplicarPor(Matriz m)
+
+double [,] matriz2= new double[3,3]{{1,2,3},{4,5,6},{7,8,9}};
+Matriz matriz=new Matriz(matriz2);
+matriz.SetElemento(0,0,1);
+matriz.SetElemento(1,1,1);
+matriz.SetElemento(2,2,1);
+Console.WriteLine(matriz.GetElemento(0,0));
+matriz.imprimir();
+*/
+/*  EJERCICIO 9: 
+Prestar atención a los siguientes programas (ninguno funciona correctamente)
+¿Qué se puede decir acerca de la inicialización de los objetos? ¿En qué casos son inicializados automáticamente
+y con qué valor?
+
+La diferencia es que: en el segundo caso no compila, en el primero si pero da error de ejecucion.
+*/
+/*  EJERCICIO 10: 
+¿Qué se puede decir en relación a la sobrecarga de métodos en este ejemplo?
+
+Respeta las mismas reglas que la sobrecarga de constructores, tienen que tener distintos parametros para poder diferenciarce, cantidad y
+orden. 
+
+A ej =new A();
+Console.WriteLine(ej.Metodo(10.5));
+
+class A
+{
+public void Metodo(short n)
+{
+Console.Write("short {0} - ", n);
+}
+public void Metodo(int n)
+{
+Console.Write("int {0} - ", n);
+}
+public int Metodo(int n)
+{
+return n + 10.5;
+}
+}
+*/
+/*  EJERCICIO 11:
+Qué salida produce en la consola el siguiente programa?
+
+object o = 5;
+Sobrecarga s = new Sobrecarga();
+s.Procesar(o, o);//al primero, fue al segundo
+s.Procesar((dynamic)o, o);// al primero, le pegue
+s.Procesar((dynamic)o, (dynamic)o);//al segundo,fue al primero
+s.Procesar(o, (dynamic)o);//al primero, fue al segundo
+s.Procesar(5, 5);//al primero
+class Sobrecarga
+{
+public void Procesar(int i, object o)
+{
+Console.WriteLine($"entero: {i} objeto:{o}");
+}
+public void Procesar(dynamic d1, dynamic d2)
+{
+Console.WriteLine($"dynamic d1: {d1} dynamic d2:{d2}");
+}
+}
 */
