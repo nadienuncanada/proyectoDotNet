@@ -207,3 +207,56 @@ Console.WriteLine($"dynamic d1: {d1} dynamic d2:{d2}");
 }
 }
 */
+/*  EJERCICIO 12:
+ Completar la clase Cuenta para que el siguiente código produzca la salida indicada:
+
+Cuenta cuenta = new Cuenta();
+cuenta.Imprimir();
+cuenta = new Cuenta(30222111);
+cuenta.Imprimir();
+cuenta = new Cuenta("José Perez");
+cuenta.Imprimir();
+cuenta = new Cuenta("Maria Diaz", 20287544);
+cuenta.Imprimir();
+cuenta.Depositar(200);
+cuenta.Imprimir();
+cuenta.Extraer(150);
+cuenta.Imprimir();
+cuenta.Extraer(1500);
+ */
+ /* EJERCICIO 13:
+ Reemplazar estas líneas de código por otras equivalentes que utilicen el operador null-coalescing (?? ) y / o
+la asignación null-coalescing (??=)
+
+ string st=null;
+ string st1=null;
+ string st2=null;
+ string st3="C";
+ string st4=null;
+ if (st1 == null)
+{
+if (st2 == null)
+{
+st = st3;
+}
+else
+{
+st = st2;
+}
+}
+else
+{
+st = st1;
+}
+if (st4 == null)
+{
+st4 = "valor por defecto";
+}
+Console.WriteLine(st);
+Console.WriteLine(st4);
+
+st=st1??st2??st3;
+st4??="Valor por defecto";
+Console.WriteLine(st);
+Console.WriteLine(st4);
+ */
