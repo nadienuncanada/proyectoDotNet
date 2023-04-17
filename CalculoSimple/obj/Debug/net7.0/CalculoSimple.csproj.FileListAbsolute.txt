@@ -1,0 +1,15 @@
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\CalculoSimple\bin\Debug\net7.0\CalculoSimple.exe
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\CalculoSimple\bin\Debug\net7.0\CalculoSimple.deps.json
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\CalculoSimple\bin\Debug\net7.0\CalculoSimple.runtimeconfig.json
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\CalculoSimple\bin\Debug\net7.0\CalculoSimple.dll
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\CalculoSimple\bin\Debug\net7.0\CalculoSimple.pdb
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\CalculoSimple\obj\Debug\net7.0\CalculoSimple.csproj.AssemblyReference.cache
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\CalculoSimple\obj\Debug\net7.0\CalculoSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\CalculoSimple\obj\Debug\net7.0\CalculoSimple.AssemblyInfoInputs.cache
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\CalculoSimple\obj\Debug\net7.0\CalculoSimple.AssemblyInfo.cs
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\CalculoSimple\obj\Debug\net7.0\CalculoSimple.csproj.CoreCompileInputs.cache
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\CalculoSimple\obj\Debug\net7.0\CalculoSimple.dll
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\CalculoSimple\obj\Debug\net7.0\refint\CalculoSimple.dll
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\CalculoSimple\obj\Debug\net7.0\CalculoSimple.pdb
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\CalculoSimple\obj\Debug\net7.0\CalculoSimple.genruntimeconfig.cache
+C:\Users\meloi\OneDrive\Documentos\.NET\proyectoDotNet\CalculoSimple\obj\Debug\net7.0\ref\CalculoSimple.dll
